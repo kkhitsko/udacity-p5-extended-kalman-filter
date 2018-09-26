@@ -84,21 +84,23 @@ In two different runs my Extended Kalman Filter gives following result:
 
 ## Dataset 1
 
-||RMSE|
+|Input|RMSE|
+| --- | --- |
 |px|0.0973|
 |py|0.0855|
 |vx|0.4513|
 |vy|0.4399|
 
-![Alt text](images/run1.jpg "Dataset 1")
+![Dataset 1](images/run1.png "Dataset 1")
 
 
 ## Dataset 2
 
-||RMSE|
+|Input|RMSE|
+| --- | --- |
 |px|0.0726|
 |py|0.0965|
 |vx|0.4216|
 |vy|0.4932|
 
-![Alt text](images/run2.jpg "Dataset 2")
+![Dataset 2](images/run2.png "Dataset 2")
