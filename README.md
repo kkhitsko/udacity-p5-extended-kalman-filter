@@ -67,7 +67,7 @@ Current application has 2 scenarious to running application:
 
 ### Text file mode
 
-For debug purpose you can use text file as measurements. For activate this mode specify input filename as an argument:
+For debug purpose you can use text file as measurements inputs. For activate this mode specify input filename as an argument while run application: 
 
 `./ExtendedKF /data/obj_pose-radar-synthetic-input.txt`
 
