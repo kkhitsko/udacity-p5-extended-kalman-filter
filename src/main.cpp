@@ -129,7 +129,7 @@ int main(int argc, char* argv[])
         // timestamp)
         while (getline(in_file_, line)) {
             istringstream iss(line);
-            processData(iss, fusionEKF, estimations, ground_truth );
+            (void)processData(iss, fusionEKF, estimations, ground_truth );
         }
     }
     else {
